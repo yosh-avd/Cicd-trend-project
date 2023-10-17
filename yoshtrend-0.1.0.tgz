@@ -1,0 +1,12 @@
+" tar.vim version v32
+" Browsing tarfile /home/ubuntu/yoshtrend-0.1.0.tgz
+" Select a file with cursor and press ENTER
+
+yoshtrend/Chart.yaml
+yoshtrend/values.yaml
+yoshtrend/templates/deployment.yml
+yoshtrend/templates/namespace.yml
+yoshtrend/templates/secret.yml
+yoshtrend/templates/service.yml
+yoshtrend/.helmignore
+
